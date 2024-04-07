@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe.config
+C:\Users\Lenovo\Desktop\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe
+C:\Users\Lenovo\Desktop\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.pdb
+C:\Users\Lenovo\Desktop\CafeManagementSystem\CafeManagementSystem\bin\Debug\Guna.UI2.dll
+C:\Users\Lenovo\Desktop\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Form1.resources
+C:\Users\Lenovo\Desktop\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UserHomePage.resources
+C:\Users\Lenovo\Desktop\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeMana.32F80087.Up2Date
+C:\Users\Lenovo\Desktop\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe
+C:\Users\Lenovo\Desktop\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
+C:\Users\Lenovo\Desktop\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UserDetails.resources
+C:\Users\Lenovo\Desktop\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UserMenu.resources
+C:\Users\Lenovo\Desktop\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UserOrder.resources
